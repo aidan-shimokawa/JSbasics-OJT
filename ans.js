@@ -60,5 +60,15 @@ console.log(  2 + dog)
 // const someArray2 = [ 4, 5];
 // let  result = someArray.concat(someArray2);
 // console.log(result) 
+//const color  = {};
+// color['somecolor'] = {color:'black'};
+// color['somename'] = {name:'John Doe'};
+
+// const  age = {};
+//  age['someage'] = {age : '22'};
+
+// const returnedTarget = Object.assign( color, 'somename', 'somecolor', age);
+
+// console.log(color.somecolor, color.somename, age.someage);
   
 
